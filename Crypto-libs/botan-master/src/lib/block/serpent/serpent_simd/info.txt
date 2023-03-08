@@ -1,0 +1,12 @@
+<defines>
+SERPENT_SIMD -> 20160903
+</defines>
+
+<module_info>
+name -> "Serpent SIMD"
+brief -> "Serpent using SIMD instructions"
+</module_info>
+
+<requires>
+simd
+</requires>

@@ -1,0 +1,36 @@
+<defines>
+FFI -> 20230403
+</defines>
+
+<module_info>
+name -> "Foreign Function Interface"
+brief -> "C API for Botan's functionality"
+</module_info>
+
+<header:internal>
+ffi_mp.h
+ffi_pkey.h
+ffi_rng.h
+ffi_util.h
+</header:internal>
+
+<header:public>
+ffi.h
+</header:public>
+
+<requires>
+block
+stream
+hash
+aead
+kdf
+pbkdf
+pubkey
+pem
+bigint
+sha2_32
+#x509
+#tls
+system_rng
+auto_rng
+</requires>

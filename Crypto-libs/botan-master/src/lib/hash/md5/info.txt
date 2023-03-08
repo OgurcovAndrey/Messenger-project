@@ -1,0 +1,11 @@
+<defines>
+MD5 -> 20131128
+</defines>
+
+<module_info>
+name -> "MD5"
+</module_info>
+
+<requires>
+mdx_hash
+</requires>

@@ -1,0 +1,11 @@
+<defines>
+EMSA_PSSR -> 20131128
+</defines>
+
+<module_info>
+name -> "PSSR"
+</module_info>
+
+<requires>
+mgf1
+</requires>

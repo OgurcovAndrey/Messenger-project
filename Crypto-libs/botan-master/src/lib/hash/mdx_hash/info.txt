@@ -1,0 +1,10 @@
+<defines>
+MDX_HASH_FUNCTION -> 20131128
+</defines>
+
+<module_info>
+name -> "MDx Base"
+brief -> "Base class for Merkle-Damgård hashes"
+</module_info>
+
+load_on dep

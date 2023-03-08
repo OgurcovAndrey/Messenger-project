@@ -1,0 +1,24 @@
+<defines>
+ENTROPY_SRC_RDSEED -> 20151218
+</defines>
+
+<module_info>
+name -> "RDSEED"
+brief -> "Wrapper for Intel's RDSEED instruction"
+</module_info>
+
+<isa>
+rdseed
+sse2 # for mm_pause see #2139
+</isa>
+
+<header:internal>
+rdseed.h
+</header:internal>
+
+<cc>
+gcc
+clang
+icc
+msvc
+</cc>

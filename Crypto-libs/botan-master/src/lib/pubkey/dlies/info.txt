@@ -1,0 +1,18 @@
+<defines>
+DLIES -> 20160713
+</defines>
+
+<module_info>
+name -> "DLIES"
+</module_info>
+
+<requires>
+dh
+kdf
+mac
+modes
+</requires>
+
+<header:public>
+dlies.h
+</header:public>

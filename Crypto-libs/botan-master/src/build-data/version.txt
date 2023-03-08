@@ -1,0 +1,11 @@
+
+release_major = 3
+release_minor = 0
+release_patch = 0
+release_suffix = '-alpha0'
+release_so_abi_rev = 0
+
+# These are set by the distribution script
+release_vc_rev = None
+release_datestamp = 0
+release_type = 'unreleased'
